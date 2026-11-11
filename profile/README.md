@@ -1,3 +1,4 @@
+[Deutsch](README.md) · [English](README.en.md)
 # Open Source. Gemeinsam weiterentwickeln.
 
 Digitale Lösungen entstehen gemeinsam. Open-Source-Projekte machen Wissen und Software zugänglich und schaffen Grundlagen, auf denen viele aufbauen können. Deshalb unterstützen wir Open-Source-Projekte mit Spenden.
